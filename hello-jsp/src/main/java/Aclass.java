@@ -2,6 +2,6 @@
 public class Aclass {
 	/*commento*/
 	public static void main(String[] args) {
-		System.out.println("A message");
+		System.out.println("simply mex");
 	}
 }
